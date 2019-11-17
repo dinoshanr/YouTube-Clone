@@ -15,3 +15,11 @@ I started my capstone project by brainstorming ideas for a potential full-stack 
 
 ![Hello World](https://user-images.githubusercontent.com/28772023/68913572-b4682880-0729-11ea-861c-793a7a2317c4.jpg)
 ![Shin MELLONS](https://user-images.githubusercontent.com/28772023/68913609-db265f00-0729-11ea-9887-ba531c8c585e.jpg)
+
+
+## Major Hurdles
+
+1. Functinality of the user sign in & sign up
+2. Learning material UI 
+3. Linking front end to back-end
+4. JAVA & PostgresSQL - User Services Backend
